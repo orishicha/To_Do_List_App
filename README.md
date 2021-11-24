@@ -26,7 +26,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- CareerFoundry tutors, mentors and fellow students;
+- CareerFoundry https://replit.com/@CFCurriculum
 
 ## 📝 License
 
